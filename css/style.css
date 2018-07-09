@@ -1,0 +1,14 @@
+/*  Adaptado de http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html */
+  div#tooltip {   
+	  position: absolute;           
+	  text-align: center;           
+	  width: 90px;                  
+	  height: 45px;                 
+	  padding: 2px;             
+	  font: 12px sans-serif;        
+	  background: purple;
+	  color: beige;
+	  border: 0px;      
+	  border-radius: 8px;           
+	  pointer-events: none;         
+	}
